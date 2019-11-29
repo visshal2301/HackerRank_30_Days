@@ -21,7 +21,7 @@ public class Solution {
             }
         }
 
-        int max = -9 * 7;
+        int max = -100;
         for (int i = 0; i < 6; i++) {
             for (int j = 0; j < 6; j++) {
                 if (j + 2 < 6 && i + 2 < 6) {
